@@ -3,7 +3,7 @@
 
     // Log in to MailChimp and create an API key under:
     // [ Account ] -> [ Extras ] -> [ API Keys ]
-    $apiKey = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-us8';
+    $apiKey = '62d4387fb1517fa2c3f33bcd1bfdc22a-us10';
     
     // Find your list ID by opening the list in MailChimp, then:
     // [ Settings ] -> [ List name and defaults ]
